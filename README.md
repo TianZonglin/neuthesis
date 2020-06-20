@@ -1,2 +1,2 @@
 # neuthesis
-The Latex template of Ph.D. thesis for Northeastern University.
+The Latex template of Ph.D. / Master thesis for Northeastern University.
